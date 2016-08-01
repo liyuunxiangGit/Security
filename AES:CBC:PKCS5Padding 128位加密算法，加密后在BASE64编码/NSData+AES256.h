@@ -2,7 +2,7 @@
 //  NSData+AES256.h
 //  AES
 //
-//  Created by 王忠伟 on 15/9/9.
+
 //  Copyright (c) 2015年 hnzdkj. All rights reserved.
 //
 //  Permission is given to use this source code file, free of charge, in any
